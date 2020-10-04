@@ -1,0 +1,44 @@
+body {
+    background-color: dodgerblue;
+}
+
+header {
+    text-align: center;
+    color: ghostwhite;
+    margin: 50px;
+}
+
+.halaman1 {
+    display: flex;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.foto img {
+    width: 100%;
+    height: 97%;
+
+}
+
+.isi {
+    display: flex;
+    background-color: ghostwhite;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+.kata {
+    padding-left: 20px;
+}
+
+button {
+    background-color: lightblue;
+    color: dodgerblue;
+    width: 125px;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: dodgerblue;
+}
